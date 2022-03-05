@@ -5,6 +5,7 @@ int main(){
   printf("edit on remote main branch\n");
   printf("edit on loacl, main branch\n");
   printf("edit on remote main branch\n");
+  printf("edit on remote main branch\n");
 
   return 0;
 }
